@@ -5,18 +5,18 @@
     "symbol" : "䷀",
     "name" : {
       "zh" : "乾",
-      "en" : "The Creative"
+      "it" : "Il Creativo"
     },
-    "judgment" : "<p>The Creative works sublime success,<br />Furthering through perseverance.</p>",
-    "image" : "<p>The movement of heaven is full of power.<br />Thus the superior man makes himself strong and untiring.</p>",
+    "judgment" : "Il Creativo opera sublime riuscita, propizio per perseveranza.",
+    "image" : "Il moto del cielo è vigoroso. Così il nobile rende se stesso forte e instancabile.",
     "transforming_lines" : [
-      "<p>Hidden dragon. Do not act.</p>",
-      "<p>Dragon appearing in the field.<br />It furthers one to see the great man.</p>",
-      "<p>All day long the superior man is creatively active.<br />At nightfall his mind is still beset with cares.<br />Danger. No blame.</p>",
-      "<p>Wavering flight over the depths.<br />No blame.</p>",
-      "<p>Flying dragon in the heavens.<br />It furthers one to see the great man.</p>",
-      "<p>Arrogant dragon will have cause to repent.</p>",
-      "<p>There appears a flight of dragons without heads.<br />Good fortune.</p>"
+      "Drago coperto. Non agire.",
+      "Drago che compare nel campo. Propizio è vedere il grande uomo.",
+      "Il nobile è creativamente attivo tutto il giorno. Ancora a sera è pieno di pensieri. Pericolo. Nessuna macchia.",
+      "Oscillante slancio al di sopra dell'abisso. Nessuna macchia",
+      "Drago volante nel cielo. Propizio è vedere il grande uomo.",
+      "Drago altezzoso avrà da pentirsi",
+      "Compare una schiera di draghi senza testa. Salute!"
     ]
   },
   {
@@ -25,7 +25,7 @@
     "symbol" : "䷁",
     "name" : {
       "zh" : "坤",
-      "en" : "The Receptive"
+      "it" : "Il Ricettivo"
     },
     "judgment" : "<p>The Receptive brings about sublime success,<br />Furthering through the perseverance of a mare.<br />If the superior man undertakes something and tries to lead,<br />He goes astray;<br />But if he follows, he finds guidance.<br />It is favorable to find friends in the west and south,<br />To forego friends in the east and north.<br />Quiet perseverance brings good fortune.</p>",
     "image" : "<p>The earth's condition is receptive devotion.<br />Thus the superior man who has breadth of character<br />Carries the outer world.</p>",
@@ -45,7 +45,7 @@
     "symbol" : "䷂",
     "name" : {
       "zh" : "屯",
-      "en" : "Difficulty at the Beginning"
+      "it" : "La Difficoltà iniziale"
     },
     "judgment" : "<p>Difficulty at the Beginning works supreme success,<br />Furthering through perseverance.<br />Nothing should be undertaken.<br />It furthers one to appoint helpers.</p>",
     "image" : "<p>Clouds and thunder:<br />The image of Difficulty at the Beginning.<br />Thus the superior man<br />Brings order out of confusion.</p>",
@@ -64,7 +64,7 @@
     "symbol" : "䷃",
     "name" : {
       "zh" : "蒙",
-      "en" : "Youthful Folly"
+      "it" : "Youthful Folly"
     },
     "judgment" : "<p>Youthful Folly has success.<br />It is not I who seek the young fool;<br />The young fool seeks me.<br />At the first oracle I inform him.<br />If he asks two or three times, it is importunity.<br />If he importunes, I give him no information.<br />Perseverance furthers.</p>",
     "image" : "<p>A spring wells up at the foot of the mountain:<br />The image of Youth.<br />Thus the superior man fosters his character<br />By thoroughness in all that he does.</p>",
@@ -83,7 +83,7 @@
     "symbol" : "䷄",
     "name" : {
       "zh" : "需",
-      "en" : "Waiting [Nourishment]"
+      "it" : "Waiting [Nourishment]"
     },
     "judgment" : "<p>Waiting. If you are sincere,<br />You have light and success.<br />Perseverance brings good fortune.<br />It furthers one to cross the great water.</p>",
     "image" : "<p>Clouds rise up to heaven:<br />The image of Waiting.<br />Thus the superior man eats and drinks,<br />Is joyous and of good cheer.</p>",
@@ -102,7 +102,7 @@
     "symbol" : "䷅",
     "name" : {
       "zh" : "訟",
-      "en" : "Conflict"
+      "it" : "Conflict"
     },
     "judgment" : "<p>Conflict. You are sincere<br />And are being obstructed.<br />A cautious halt halfway brings good fortune.<br />Going through to the end brings misfortune.<br />It furthers one to see the great man.<br />It does not further one to cross the great water.</p>",
     "image" : "<p>Heaven and water go their opposite ways:<br />The image of Conflict.<br />Thus in all his transactions the superior man<br />Carefully considers the beginning.</p>",
@@ -121,7 +121,7 @@
     "symbol" : "䷆",
     "name" : {
       "zh" : "師",
-      "en" : "The Army"
+      "it" : "The Army"
     },
     "judgment" : "<p>The Army. The army needs perseverance<br />And a strong man.<br />Good fortune without blame.</p>",
     "image" : "<p>In the middle of the earth is water:<br />The image of the Army.<br />Thus the superior man increases his masses<br />By generosity toward the people.</p>",
@@ -140,7 +140,7 @@
     "symbol" : "䷇",
     "name" : {
       "zh" : "比",
-      "en" : "Holding Together [Union]"
+      "it" : "Holding Together [Union]"
     },
     "judgment" : "<p>Holding Together brings good fortune.<br />Inquire of the oracle once again<br />Whether you possess sublimity, constancy, and perseverance;<br />Then there is no blame.<br />Those who are uncertain gradually join.<br />Whoever comes too late<br />Meets with misfortune.</p>",
     "image" : "<p>On the earth is water:<br />The image of Holding Together.<br />Thus the kings of antiquity<br />Bestowed the different states as fiefs<br />And cultivated friendly relations<br />With the feudal lords.</p>",
@@ -159,7 +159,7 @@
     "symbol" : "䷈",
     "name" : {
       "zh" : "小畜",
-      "en" : "The Taming Power of the Small"
+      "it" : "The Taming Power of the Small"
     },
     "judgment" : "<p>The Taming Power of the Small<br />Has success.<br />Dense clouds, no rain from our western region.</p>",
     "image" : "<p>The wind drives across heaven:<br />The image of The Taming Power of the Small.<br />Thus the superior man<br />Refines the outward aspect of his nature.</p>",
@@ -178,7 +178,7 @@
     "symbol" : "䷉",
     "name" : {
       "zh" : "履",
-      "en" : "Treading [Conduct]"
+      "it" : "Treading [Conduct]"
     },
     "judgment" : "<p>Treading. Treading upon the tail of the tiger.<br />It does not bite the man. Success.</p>",
     "image" : "<p>Heaven above, the lake below:<br />The image of Treading.<br />Thus the superior man discriminates between high and low,<br />And thereby fortifies the thinking of the people.</p>",
@@ -197,7 +197,7 @@
     "symbol" : "䷊",
     "name" : {
       "zh" : "泰",
-      "en" : "Peace"
+      "it" : "Peace"
     },
     "judgment" : "<p>Peace. The small departs,<br />The great approaches.<br />Good fortune. Success.</p>",
     "image" : "<p>Heaven and earth unite: the image of Peace.<br />Thus the ruler<br />Divides and completes the course of heaven and earth;<br />He furthers and regulates the gifts of heaven and earth,<br />And so aids the people.</p>",
@@ -216,7 +216,7 @@
     "symbol" : "䷋",
     "name" : {
       "zh" : "否",
-      "en" : "Standstill [Stagnation]"
+      "it" : "Standstill [Stagnation]"
     },
     "judgment" : "<p>Standstill. Evil people do not further<br />The perseverance of the superior man.<br />The great departs; the small approaches.</p>",
     "image" : "<p>Heaven and earth do not unite:<br />The image of Standstill.<br />Thus the superior man falls back upon his inner worth<br />In order to escape the difficulties.<br />He does not permit himself to be honored with revenue.</p>",
@@ -235,7 +235,7 @@
     "symbol" : "䷌",
     "name" : {
       "zh" : "同人",
-      "en" : "Fellowship with Men"
+      "it" : "Fellowship with Men"
     },
     "judgment" : "<p>Fellowship with Men in the open.<br />Success.<br />It furthers one to cross the great water.<br />The perseverance of the superior man furthers.</p>",
     "image" : "<p>Heaven together with fire:<br />The image of Fellowship with Men.<br />Thus the superior man organizes the clans<br />And makes distinctions between things.</p>",
@@ -254,7 +254,7 @@
     "symbol" : "䷍",
     "name" : {
       "zh" : "大有",
-      "en" : "Possession in Great Measure"
+      "it" : "Possession in Great Measure"
     },
     "judgment" : "<p>Possession in Great Measure.<br />Supreme success.</p>",
     "image" : "<p>Fire in heaven above:<br />The image of Possession in Great Measure.<br />Thus the superior man curbs evil and furthers good,<br />And thereby obeys the benevolent will of heaven.</p>",
@@ -273,7 +273,7 @@
     "symbol" : "䷎",
     "name" : {
       "zh" : "謙",
-      "en" : "Modesty"
+      "it" : "Modesty"
     },
     "judgment" : "<p>Modesty creates success.<br />The superior man carries things through.</p>",
     "image" : "<p>Within the earth, a mountain:<br />The image of Modesty.<br />Thus the superior man reduces that which is too much,<br />And augments that which is too little.<br />He weighs things and makes them equal.</p>",
@@ -292,7 +292,7 @@
     "symbol" : "䷏",
     "name" : {
       "zh" : "豫",
-      "en" : "Enthusiasm"
+      "it" : "Enthusiasm"
     },
     "judgment" : "<p>Enthusiasm. It furthers one to install helpers<br />And to set armies marching.</p>",
     "image" : "<p>Thunder comes resounding out of the earth:<br />The image of Enthusiasm.<br />Thus the ancient kings made music<br />In order to honor merit,<br />And offered it with splendor<br />to the Supreme Deity,<br />Inviting their ancestors to be present.</p>",
@@ -311,7 +311,7 @@
     "symbol" : "䷐",
     "name" : {
       "zh" : "隨",
-      "en" : "Following"
+      "it" : "Following"
     },
     "judgment" : "<p>Following has supreme success.<br />Perseverance furthers. No blame.</p>",
     "image" : "<p>Thunder in the middle of the lake:<br />The image of Following.<br />Thus the superior man at nightfall<br />Goes indoors for rest and recuperation.</p>",
@@ -330,7 +330,7 @@
     "symbol" : "䷑",
     "name" : {
       "zh" : "蠱",
-      "en" : "Work on What Has Been Spoiled [Decay]"
+      "it" : "Work on What Has Been Spoiled [Decay]"
     },
     "judgment" : "<p>Work on What Has Been Spoiled<br />Has supreme success.<br />It furthers one to cross the great water.<br />Before the starting point, three days.<br />After the starting point, three days.</p>",
     "image" : "<p>The wind blows low on the mountain:<br />The image of Decay.<br />Thus the superior man stirs up the people<br />And strengthens their spirit.</p>",
@@ -349,7 +349,7 @@
     "symbol" : "䷒",
     "name" : {
       "zh" : "臨",
-      "en" : "Approach"
+      "it" : "Approach"
     },
     "judgment" : "<p>Approach has supreme success.<br />Perseverance furthers.<br />When the eighth month comes,<br />There will be misfortune.</p>",
     "image" : "<p>The earth above the lake:<br />The image of Approach.<br />Thus the superior man is inexhaustible<br />In his will to teach,<br />And without limits<br />In his tolerance and protection of the people.</p>",
@@ -368,7 +368,7 @@
     "symbol" : "䷓",
     "name" : {
       "zh" : "觀",
-      "en" : "Contemplation [View]"
+      "it" : "Contemplation [View]"
     },
     "judgment" : "<p>Contemplation. The ablution has been made,<br />But not yet the offering.<br />Full of trust they look up to him.</p>",
     "image" : "<p>The wind blows over the earth:<br />The image of Contemplation.<br />Thus the kings of old visited the regions of the world,<br />Contemplated the people,<br />And gave them instruction.</p>",
@@ -387,7 +387,7 @@
     "symbol" : "䷔",
     "name" : {
       "zh" : "噬嗑",
-      "en" : "Biting Through"
+      "it" : "Biting Through"
     },
     "judgment" : "<p>Biting Through has success.<br />It is favorable to let justice be administered.</p>",
     "image" : "<p>Thunder and lightning:<br />The image of Biting Through.<br />Thus the kings of former times made firm the laws<br />Through clearly defined penalties.</p>",
@@ -406,7 +406,7 @@
     "symbol" : "䷕",
     "name" : {
       "zh" : "賁",
-      "en" : "Grace"
+      "it" : "Grace"
     },
     "judgment" : "<p>Grace has success.<br />In small matters<br />It is favorable to undertake something.</p>",
     "image" : "<p>Fire at the foot of the mountain:<br />The image of Grace.<br />Thus does the superior man proceed<br />When clearing up current affairs.<br />But he dare not decide controversial issues in this way.</p>",
@@ -425,7 +425,7 @@
     "symbol" : "䷖",
     "name" : {
       "zh" : "剝",
-      "en" : "Splitting Apart"
+      "it" : "Splitting Apart"
     },
     "judgment" : "<p>Splitting Apart. It does not further one<br />To go anywhere.</p>",
     "image" : "<p>The mountain rests on the earth:<br />The image of Splitting Apart.<br />Thus those above can ensure their position<br />Only by giving generously to those below.</p>",
@@ -444,7 +444,7 @@
     "symbol" : "䷗",
     "name" : {
       "zh" : "復",
-      "en" : "Return [The Turning Point]"
+      "it" : "Return [The Turning Point]"
     },
     "judgment" : "<p>Return. Success.<br />Going out and coming in without error.<br />Friends come without blame.<br />To and fro goes the way.<br />On the seventh day comes return.<br />It furthers one to have somewhere to go.</p>",
     "image" : "<p>Thunder within the earth:<br />The image of the Turning Point.<br />Thus the kings of antiquity closed the passes<br />At the time of solstice.<br />Merchants and strangers did not go about,<br />And the ruler<br />Did not travel through the provinces.</p>",
@@ -463,7 +463,7 @@
     "symbol" : "䷘",
     "name" : {
       "zh" : "無妄",
-      "en" : "Innocence [The Unexpected]"
+      "it" : "Innocence [The Unexpected]"
     },
     "judgment" : "<p>Innocence. Supreme success.<br />Perseverance furthers.<br />If someone is not as he should be,<br />He has misfortune,<br />And it does not further him<br />To undertake anything.</p>",
     "image" : "<p>Under heaven thunder rolls:<br />All things attain the natural state of innocence.<br />Thus the kings of old,<br />Rich in virtue, and in harmony with the time,<br />Fostered and nourished all beings.</p>",
@@ -482,7 +482,7 @@
     "symbol" : "䷙",
     "name" : {
       "zh" : "大畜",
-      "en" : "The Taming Power of the Great"
+      "it" : "The Taming Power of the Great"
     },
     "judgment" : "<p>The Taming Power of the Great.<br />Perseverance furthers.<br />Not eating at home brings good fortune.<br />It furthers one to cross the great water.</p>",
     "image" : "<p>Heaven within the mountain:<br />The image of the Taming Power of the Great.<br />Thus the superior man acquaints himself with many sayings of antiquity<br />And many deeds of the past,<br />In order to strengthen his character thereby.</p>",
@@ -501,7 +501,7 @@
     "symbol" : "䷚",
     "name" : {
       "zh" : "頤",
-      "en" : "The Corners of the Mouth"
+      "it" : "The Corners of the Mouth"
     },
     "judgment" : "<p>The Corners of the Mouth.<br />Perseverance brings good fortune.<br />Pay heed to the providing of nourishment<br />And to what a man seeks<br />To fill his own mouth with.</p>",
     "image" : "<p>At the foot of the mountain, thunder:<br />The image of Providing Nourishment.<br />Thus the superior man is careful of his words<br />And temperate in eating and drinking.</p>",
@@ -520,7 +520,7 @@
     "symbol" : "䷛",
     "name" : {
       "zh" : "大過",
-      "en" : "Preponderance of the Great"
+      "it" : "Preponderance of the Great"
     },
     "judgment" : "<p>Preponderance of the Great.<br />The ridgepole sags to the breaking point.<br />It furthers one to have somewhere to go.<br />Success.</p>",
     "image" : "<p>The lake rises above the trees:<br />The image of Preponderance of the Great.<br />Thus the superior man, when he stands alone,<br />Is unconcerned,<br />And if he has to renounce the world,<br />He is undaunted.</p>",
@@ -539,7 +539,7 @@
     "symbol" : "䷜",
     "name" : {
       "zh" : "坎",
-      "en" : "The Abysmal [Water]"
+      "it" : "The Abysmal [Water]"
     },
     "judgment" : "<p>The Abysmal repeated.<br />If you are sincere, you have success in your heart,<br />And whatever you do succeeds.</p>",
     "image" : "<p>Water flows on uninterruptedly and reaches its goal:<br />The image of the Abysmal repeated.<br />Thus the superior man walks in lasting virtue<br />And carries on the business of teaching.</p>",
@@ -558,7 +558,7 @@
     "symbol" : "䷝",
     "name" : {
       "zh" : "離",
-      "en" : "The Clinging, Fire"
+      "it" : "The Clinging, Fire"
     },
     "judgment" : "<p>The Clinging. Perseverance furthers.<br />It brings success.<br />Care of the cow brings good fortune.</p>",
     "image" : "<p>That which is bright rises twice:<br />The image of Fire.<br />Thus the great man, by perpetuating this brightness,<br />Illumines the four quarters of the world.</p>",
@@ -577,7 +577,7 @@
     "symbol" : "䷞",
     "name" : {
       "zh" : "咸",
-      "en" : "Influence [Wooing]"
+      "it" : "Influence [Wooing]"
     },
     "judgment" : "<p>Influence. Success.<br />Perseverance furthers.<br />To take a maiden to wife brings good fortune.</p>",
     "image" : "<p>A lake on the mountain:<br />The image of Influence.<br />Thus the superior man encourages people to approach him<br />By his readiness to receive them.</p>",
@@ -596,7 +596,7 @@
     "symbol" : "䷟",
     "name" : {
       "zh" : "恆",
-      "en" : "Duration"
+      "it" : "Duration"
     },
     "judgment" : "<p>Duration. Success. No blame.<br />Perseverance furthers.<br />It furthers one to have somewhere to go.</p>",
     "image" : "<p>Thunder and wind: the image of Duration.<br />Thus the superior man stands firm<br />And does not change his direction.</p>",
@@ -615,7 +615,7 @@
     "symbol" : "䷠",
     "name" : {
       "zh" : "遯",
-      "en" : "Retreat"
+      "it" : "Retreat"
     },
     "judgment" : "<p>Retreat. Success.<br />In what is small, perseverance furthers.</p>",
     "image" : "<p>Mountain under heaven: the image of Retreat.<br />Thus the superior man keeps the inferior man at a distance,<br />Not angrily but with reserve.</p>",
@@ -634,7 +634,7 @@
     "symbol" : "䷡",
     "name" : {
       "zh" : "大壯",
-      "en" : "The Power of the Great"
+      "it" : "The Power of the Great"
     },
     "judgment" : "<p>The Power of the Great. Perseverance furthers.</p>",
     "image" : "<p>Thunder in heaven above:<br />The image of the Power of the Great.<br />Thus the superior man does not tread upon paths<br />That do not accord with established order.</p>",
@@ -653,7 +653,7 @@
     "symbol" : "䷢",
     "name" : {
       "zh" : "晉",
-      "en" : "Progress"
+      "it" : "Progress"
     },
     "judgment" : "<p>Progress. The powerful prince<br />Is honored with horses in large numbers.<br />In a single day he is granted audience three times.</p>",
     "image" : "<p>The sun rises over the earth:<br />The image of Progress.<br />Thus the superior man himself<br />Brightens his bright virtue.</p>",
@@ -672,7 +672,7 @@
     "symbol" : "䷣",
     "name" : {
       "zh" : "明夷",
-      "en" : "Darkening of the Light"
+      "it" : "Darkening of the Light"
     },
     "judgment" : "<p>Darkening of the Light. In adversity<br />It furthers one to be persevering.</p>",
     "image" : "<p>The light has sunk into the earth:<br />The image of Darkening of the Light.<br />Thus does the superior man live with the great mass:<br />He veils his light, yet still shines.</p>",
@@ -691,7 +691,7 @@
     "symbol" : "䷤",
     "name" : {
       "zh" : "家人",
-      "en" : "The Family [The Clan]"
+      "it" : "The Family [The Clan]"
     },
     "judgment" : "<p>The Family. The perseverance of the woman furthers.</p>",
     "image" : "<p>Wind comes forth from fire:<br />The image of the Family.<br />Thus the superior man has substance in his words<br />And duration in his way of life.</p>",
@@ -710,7 +710,7 @@
     "symbol" : "䷥",
     "name" : {
       "zh" : "睽",
-      "en" : "Opposition"
+      "it" : "Opposition"
     },
     "judgment" : "<p>Opposition. In small matters, good fortune.</p>",
     "image" : "<p>Above, fire; below, the lake:<br />The image of Opposition.<br />Thus amid all fellowship<br />The superior man retains his individuality.</p>",
@@ -729,7 +729,7 @@
     "symbol" : "䷦",
     "name" : {
       "zh" : "蹇",
-      "en" : "Obstruction"
+      "it" : "Obstruction"
     },
     "judgment" : "<p>Obstruction. The southwest furthers.<br />The northeast does not further.<br />It furthers one to see the great man.<br />Perseverance brings good fortune.</p>",
     "image" : "<p>Water on the mountain:<br />The image of Obstruction.<br />Thus the superior man turns his attention to himself<br />And molds his character.</p>",
@@ -748,7 +748,7 @@
     "symbol" : "䷧",
     "name" : {
       "zh" : "解",
-      "en" : "Deliverance"
+      "it" : "Deliverance"
     },
     "judgment" : "<p>Deliverance. The southwest furthers.<br />If there is no longer anything where one has to go,<br />Return brings good fortune.<br />If there is still something where one has to go,<br />Hastening brings good fortune.</p>",
     "image" : "<p>Thunder and rain set in:<br />The image of Deliverance.<br />Thus the superior man pardons mistakes<br />And forgives misdeeds.</p>",
@@ -767,7 +767,7 @@
     "symbol" : "䷨",
     "name" : {
       "zh" : "解",
-      "en" : "Decrease"
+      "it" : "Decrease"
     },
     "judgment" : "<p>Decrease combined with sincerity<br />Brings about supreme good fortune<br />Without blame.<br />One may be persevering in this.<br />It furthers one to undertake something.<br />How is this to be carried out?<br />One may use two small bowls for the sacrifice.</p>",
     "image" : "<p>At the foot of the mountain, the lake:<br />The image of Decrease.<br />Thus the superior man controls his anger<br />And restrains his instincts.</p>",
@@ -786,7 +786,7 @@
     "symbol" : "䷩",
     "name" : {
       "zh" : "益",
-      "en" : "Increase"
+      "it" : "Increase"
     },
     "judgment" : "<p>Increase. It furthers one<br />To undertake something.<br />It furthers one to cross the great water.</p>",
     "image" : "<p>Wind and thunder: the image of Increase.<br />Thus the superior man:<br />If he sees good, he imitates it;<br />If he has faults, he rids himself of them.</p>",
@@ -805,7 +805,7 @@
     "symbol" : "䷪",
     "name" : {
       "zh" : "夬",
-      "en" : "Break-through [Resoluteness]"
+      "it" : "Break-through [Resoluteness]"
     },
     "judgment" : "<p>Break-through. One must resolutely make the matter known<br />At the court of the king.<br />It must be announced truthfully. Danger.<br />It is necessary to notify one's own city.<br />It does not further to resort to arms.<br />It furthers one to undertake something.</p>",
     "image" : "<p>The lake has risen up to heaven:<br />The image of Break-through.<br />Thus the superior man<br />Dispenses riches downward<br />And refrains from resting on his virtue.</p>",
@@ -824,7 +824,7 @@
     "symbol" : "䷫",
     "name" : {
       "zh" : "姤",
-      "en" : "Coming to Meet"
+      "it" : "Coming to Meet"
     },
     "judgment" : "<p>Coming to Meet. The maiden is powerful.<br />One should not marry such a maiden.</p>",
     "image" : "<p>Under heaven, wind:<br />The image of Coming to Meet.<br />Thus does the prince act when disseminating his commands<br />And proclaiming them to the four quarters of heaven.</p>",
@@ -843,7 +843,7 @@
     "symbol" : "䷬",
     "name" : {
       "zh" : "萃",
-      "en" : "Gathering Together [Massing]"
+      "it" : "Gathering Together [Massing]"
     },
     "judgment" : "<p>Gathering Together. Success.<br />The king approaches his temple.<br />It furthers one to see the great<br />This brings success. Perseverance furthers.<br />To bring great offerings creates good fortune.<br />It furthers one to undertake something.</p>",
     "image" : "<p>Over the earth, the lake:<br />The image of Gathering Together.<br />Thus the superior man renews his weapons<br />In order to meet the unforseen.</p>",
@@ -862,7 +862,7 @@
     "symbol" : "䷭",
     "name" : {
       "zh" : "升",
-      "en" : "Pushing Upward"
+      "it" : "Pushing Upward"
     },
     "judgment" : "<p>Pushing Upward has supreme success.<br />One must see the great man.<br />Fear not.<br />Departure toward the south<br />Brings good fortune.</p>",
     "image" : "<p>Within the earth, wood grows:<br />The image of Pushing Upward.<br />Thus the superior man of devoted character<br />Heaps up small things<br />In order to achieve something high and great.</p>",
@@ -881,7 +881,7 @@
     "symbol" : "䷮",
     "name" : {
       "zh" : "困",
-      "en" : "Oppression [Exhaustion]"
+      "it" : "Oppression [Exhaustion]"
     },
     "judgment" : "<p>Oppression. Success. Perseverance.<br />The great man brings about good fortune.<br />No blame.<br />When one has something to say,<br />It is not believed.</p>",
     "image" : "<p>There is no water in the lake:<br />The image of Exhaustion.<br />Thus the superior man stakes his life<br />On following his will.</p>",
@@ -900,7 +900,7 @@
     "symbol" : "䷯",
     "name" : {
       "zh" : "井",
-      "en" : "The Well"
+      "it" : "The Well"
     },
     "judgment" : "<p>The Well. The town may be changed,<br />But the well cannot be changed.<br />It neither decreases nor increases.<br />They come and go and draw from the well.<br />If one gets down almost to the water<br />And the rope does not go all the way,<br />Or the jug breaks, it brings misfortune.</p>",
     "image" : "<p>Water over wood: the image of the Well.<br />Thus the superior man encourages the people at their work,<br />And exhorts them to help one another.</p>",
@@ -919,7 +919,7 @@
     "symbol" : "䷰",
     "name" : {
       "zh" : "革",
-      "en" : "Revolution [Molting]"
+      "it" : "Revolution [Molting]"
     },
     "judgment" : "<p>Revolution. On your own day<br />You are believed.<br />Supreme success,<br />Furthering through perseverance.<br />Remorse disappears.</p>",
     "image" : "<p>Fire in the lake: the image of Revolution.<br />Thus the superior man<br />Sets the calendar in order<br />And makes the seasons clear.</p>",
@@ -938,7 +938,7 @@
     "symbol" : "䷱",
     "name" : {
       "zh" : "鼎",
-      "en" : "The Cauldron"
+      "it" : "The Cauldron"
     },
     "judgment" : "<p>The Cauldron. Supreme good fortune.<br />Success.</p>",
     "image" : "<p>Fire over wood:<br />The image of the Cauldron.<br />Thus the superior man consolidates his fate<br />By making his position correct.</p>",
@@ -957,7 +957,7 @@
     "symbol" : "䷲",
     "name" : {
       "zh" : "震",
-      "en" : "The Arousing [Shock, Thunder]"
+      "it" : "The Arousing [Shock, Thunder]"
     },
     "judgment" : "<p>Shock brings success.<br />Shock comes - frightening, oh!<br />Laughing words - shrieking, ha!<br />The shock terrifies for a hundred miles,<br />And he does not let fall the sacrificial spoon and chalice.</p>",
     "image" : "<p>Thunder repeated: the image of Shock.<br />Thus in fear and trembling<br />The superior man sets his life in order<br />And examines himself.</p>",
@@ -976,7 +976,7 @@
     "symbol" : "䷳",
     "name" : {
       "zh" : "艮",
-      "en" : " Keeping Still, Mountain"
+      "it" : " Keeping Still, Mountain"
     },
     "judgment" : "<p>Keeping Still. Keeping his back still<br />So that he no longer feels his body.<br />He goes into his courtyard<br />And does not see his people.<br />No blame.</p>",
     "image" : "<p>Mountains standing close together:<br />The image of Keeping Still.<br />Thus the superior man<br />Does not permit his thoughts<br />To go beyond his situation.</p>",
@@ -995,7 +995,7 @@
     "symbol" : "䷴",
     "name" : {
       "zh" : "漸",
-      "en" : "Development [Gradual Progress]"
+      "it" : "Development [Gradual Progress]"
     },
     "judgment" : "<p>Development. The maiden<br />Is given in marriage.<br />Good fortune.<br />Perseverance furthers.</p>",
     "image" : "<p>On the mountain, a tree:<br />The image of Development.<br />Thus the superior man abides in dignity and virtue,<br />In order to improve the mores.</p>",
@@ -1014,7 +1014,7 @@
     "symbol" : "䷵",
     "name" : {
       "zh" : "歸妹",
-      "en" : "The Marrying Maiden"
+      "it" : "The Marrying Maiden"
     },
     "judgment" : "<p>The Marrying Maiden.<br />Undertakings bring misfortune.<br />Nothing that would further.</p>",
     "image" : "<p>Thunder over the lake:<br />The image of the Marrying Maiden.<br />Thus the superior man<br />Understands the transitory<br />In the light of the eternity of the end.</p>",
@@ -1033,7 +1033,7 @@
     "symbol" : "䷶",
     "name" : {
       "zh" : "豐",
-      "en" : "Abundance [Fullness]"
+      "it" : "Abundance [Fullness]"
     },
     "judgment" : "<p>Abundance has success.<br />The king attains abundance.<br />Be not sad.<br />Be like the sun at midday.</p>",
     "image" : "<p>Both thunder and lightning come:<br />The image of Abundance.<br />Thus the superior man decides lawsuits<br />And carries out punishments.</p>",
@@ -1052,7 +1052,7 @@
     "symbol" : "䷷",
     "name" : {
       "zh" : "旅",
-      "en" : "The Wanderer"
+      "it" : "The Wanderer"
     },
     "judgment" : "<p>The Wanderer. Success through smallness.<br />Perseverance brings good fortune<br />To the wanderer.</p>",
     "image" : "<p>Fire on the mountain:<br />The image of the Wanderer.<br />Thus the superior man<br />Is clear-minded and cautious<br />In imposing penalties,<br />And protracts no lawsuits.</p>",
@@ -1071,7 +1071,7 @@
     "symbol" : "䷸",
     "name" : {
       "zh" : "巽",
-      "en" : "The Gentle [The Penetrating, Wind]"
+      "it" : "The Gentle [The Penetrating, Wind]"
     },
     "judgment" : "<p>The Gentle. Success through what is small.<br />It furthers one to have somewhere to go.<br />It furthers one to see the great man.</p>",
     "image" : "<p>Winds following one upon the other:<br />The image of the Gently Penetrating.<br />Thus the superior man<br />Spreads his commands abroad<br />And carries out his undertakings.</p>",
@@ -1090,7 +1090,7 @@
     "symbol" : "䷹",
     "name" : {
       "zh" : "兌",
-      "en" : "The Joyous, Lake"
+      "it" : "The Joyous, Lake"
     },
     "judgment" : "<p>The Joyous. Success.<br />Perseverance is favorable.</p>",
     "image" : "<p>Lakes resting one on the other:<br />The image of the Joyous.<br />Thus the superior man joins with his friends<br />For discussion and practice.</p>",
@@ -1109,7 +1109,7 @@
     "symbol" : "䷺",
     "name" : {
       "zh" : "渙",
-      "en" : "Dispersion [Dissolution]"
+      "it" : "Dispersion [Dissolution]"
     },
     "judgment" : "<p>Dispersion. Success.<br />The king approaches his temple.<br />It furthers one to cross the great water.<br />Perseverance furthers.</p>",
     "image" : "<p>The wind drives over the water:<br />The image of Dispersion.<br />Thus the kings of old sacrificed to the Lord<br />And built temples.</p>",
@@ -1128,7 +1128,7 @@
     "symbol" : "䷻",
     "name" : {
       "zh" : "節",
-      "en" : "Limitation"
+      "it" : "Limitation"
     },
     "judgment" : "<p>Limitation. Success.<br />Galling limitation must not be persevered in.</p>",
     "image" : "<p>Water over lake: the image of Limitation.<br />Thus the superior man<br />Creates number and measure,<br />And examines the nature of virtue and correct conduct.</p>",
@@ -1147,7 +1147,7 @@
     "symbol" : "䷼",
     "name" : {
       "zh" : "中孚",
-      "en" : "Inner Truth"
+      "it" : "Inner Truth"
     },
     "judgment" : "<p>Inner Truth. Pigs and fishes.<br />Good fortune.<br />It furthers one to cross the great water.<br />Perseverance furthers.</p>",
     "image" : "<p>Wind over lake: the image of Inner Truth.<br />Thus the superior man discusses criminal cases<br />In order to delay executions.</p>",
@@ -1166,7 +1166,7 @@
     "symbol" : "䷽",
     "name" : {
       "zh" : "小過",
-      "en" : "Preponderance of the Small"
+      "it" : "Preponderance of the Small"
     },
     "judgment" : "<p>Preponderance of the Small. Success.<br />Perseverance furthers.<br />Small things may be done; great things should not be done.<br />The flying bird brings the message:<br />It is not well to strive upward,<br />It is well to remain below.<br />Great good fortune.</p>",
     "image" : "<p>Thunder on the mountain:<br />The image of Preponderance of the Small.<br />Thus in his conduct the superior man gives preponderance to reverence.<br />In bereavement he gives preponderance to grief.<br />In his expenditures he gives preponderance to thrift.</p>",
@@ -1185,7 +1185,7 @@
     "symbol" : "䷾",
     "name" : {
       "zh" : "既濟",
-      "en" : "After Completion"
+      "it" : "After Completion"
     },
     "judgment" : "<p>After Completion. Success in small matters.<br />Perseverance furthers.<br />At the beginning good fortune,<br />At the end disorder.</p>",
     "image" : "<p>Water over fire: the image of the condition<br />In After Completion.<br />Thus the superior man<br />Takes thought of misfortune<br />And arms himself against it in advance.</p>",
@@ -1204,10 +1204,10 @@
     "symbol" : "䷿",
     "name" : {
       "zh" : "未濟",
-      "en" : "Before Completion"
+      "it" : "Prima del compimento"
     },
-    "judgment" : "<p>Before Completion. Success.<br />But if the little fox, after nearly completing the crossing,<br />Gets his tail in the water,<br />There is nothing that would further.</p>",
-    "image" : "<p>Fire over water:<br />The image of the condition before transition.<br />Thus the superior man is careful<br />In the differentiation of things,<br />So that each finds its place.</p>",
+    "judgment" : "Prima del compimento. Riuscita. Ma se la piccola volpe, quando ha quasi compiuto il passaggio, finisce con la coda nell’acqua, allora non vi è nulla che sia propizio.",
+    "image" : "Il fuoco è al di sopra dell’acqua: l’immagine delle cose prima del compimento. Così il nobile è prudente nel distinguere le cose, affinché ciascuna vada al suo posto.",
     "transforming_lines" : [
       "<p>He gets his tail in the water.<br />Humiliating.</p>",
       "<p>He brakes his wheels.<br />Perseverance brings good fortune.</p>",

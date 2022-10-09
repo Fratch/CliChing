@@ -5,6 +5,7 @@ import pydoc
 import random 
 from time import sleep
 import json
+import os
 
 class color:
    PURPLE = '\033[95m'
@@ -21,8 +22,7 @@ class color:
 class Line(object):         # It starts the program, intro and choose the line of the hexagram
 
     def intro(self):
-        print ("\n")
-
+        os.system('cls' if os.name == 'nt' else 'clear')
         print ("╭━━━┳╮╱╭━━━┳╮")
         print ("┃╭━╮┃┃╱┃╭━╮┃┃")
         print ("┃┃╱╰┫┃╭┫┃╱╰┫╰━┳┳━╮╭━━╮")
@@ -31,12 +31,12 @@ class Line(object):         # It starts the program, intro and choose the line o
         print ("╰━━━┻━┻┻━━━┻╯╰┻┻╯╰┻━╮┃")
         print ("╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃")
         print ("╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯")
-        print ("\n")
-        print('─' * 10)  # U+2500, Box Drawings Light Horizontal
+        print('─' * 20)  # U+2500, Box Drawings Light Horizontal
 
         Line().generateHexagram()
 
-# traditional calculations to generate i-ching from coin flips assign 'heads' the value of 3 and 'tails' the value of two.
+    # I calcoli tradizionali per generare i-ching dal lancio di una moneta 
+    # assegnano a "testa" il valore di 3 e a "croce" il valore di due.
     def cointoss(self):
         rand_i = random.randint(0, 1)
         outcomes = [3, 2]
@@ -58,7 +58,6 @@ class Line(object):         # It starts the program, intro and choose the line o
 
         found = {}
 
-
         for d in data['hexagrams']:
             if d['pattern'] == intHex:
                 found = d
@@ -70,15 +69,19 @@ class Line(object):         # It starts the program, intro and choose the line o
 
     def logFormat(type):
         result = Line.locateHexagram(type)
+        print("   ", result['name']['zh'], "   ")
+        print(color.BOLD,"Enneagramma",result['number'],": ",result['name']['it'],color.END)
         print("   ", result['symbol'], "   ")
-        print(color.BOLD + result['name']['en'] + color.END)
-        print(result['name']['zh'])
-        print(result['image'])
-        print("Judgement:")
+        print(color.UNDERLINE + "La sentenza:" + color.END)
         print(result['judgment'])
+        print(color.UNDERLINE + "Immagine:" + color.END)
+        print(result['image'])
         print ("\n")
 
-    # Lines with a value of 6 or 9 are considered "changing" and as a result, a second hexagram is generated
+    # Le linee con valore 6 o 9 sono considerate "mutevoli" e di conseguenza
+    # viene generato un secondo esagramma.
+    # TODO: variabile (array di interi) per segnare quali linee sono mutevoli
+    # così da mostrare direttamente il responso mutevole.
     def convertHexagrams(hexagram):
         changing = False
         primary = ""
@@ -110,14 +113,5 @@ class Line(object):         # It starts the program, intro and choose the line o
         Line.convertHexagrams(hexagram)
 
 
-    def exa(self):
-        print ("Here the exagram from I-Ching: ")
-        print ("\n")
-        print ("Legend:")
-        print ("young yin line   ■■ ■■")
-        print ("young yang line  ■■■■■")
-        print ("old yin line     ■■x■■")
-        print ("old yang line    ■■o■■")
-        sleep(1)            # it adds some waiting time, suspence.
 
 Line().intro()
