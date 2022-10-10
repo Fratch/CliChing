@@ -1,5 +1,5 @@
-#!/usr/bin/env/python3
-# -*- coding: utf-8 -*-
+#!/usr/bin/python3
+# # -*- coding: utf-8 -*-
 
 import pydoc
 import random 
@@ -67,42 +67,49 @@ class Line(object):         # It starts the program, intro and choose the line o
 
         return found
 
-    def logFormat(type):
+    def logFormat(type, transformingLine):
         result = Line.locateHexagram(type)
         print("   ", result['name']['zh'], "   ")
-        print(color.BOLD,"Enneagramma",result['number'],": ",result['name']['it'],color.END)
+        print(color.BOLD,"Esagramma",result['number'],": ",result['name']['it'],color.END)
         print("   ", result['symbol'], "   ")
         print(color.UNDERLINE + "La sentenza:" + color.END)
         print(result['judgment'])
         print(color.UNDERLINE + "Immagine:" + color.END)
         print(result['image'])
+        if transformingLine:
+            print(color.UNDERLINE + "Linee Mobili:" + color.END)
+            for x in transformingLine:
+                print(result['transforming_lines'][x])
         print ("\n")
 
     # Le linee con valore 6 o 9 sono considerate "mutevoli" e di conseguenza
     # viene generato un secondo esagramma.
-    # TODO: variabile (array di interi) per segnare quali linee sono mutevoli
-    # così da mostrare direttamente il responso mutevole.
     def convertHexagrams(hexagram):
         changing = False
         primary = ""
         relating = ""
+        transformingLines = []
         for i in range(len(hexagram)):
             if hexagram[i] == "6":
                 changing = True
                 primary += str(8)
                 relating += str(7)
+                transformingLines.append(i)
             elif hexagram[i] == "9":
                 changing = True
                 primary += str(7)
                 relating += str(8)
+                transformingLines.append(i)
             else:
                 primary += hexagram[i]
                 relating += hexagram[i]
+        if len(transformingLines)==6:
+            transformingLines=[7]
         if changing:
-            Line.logFormat(primary)
-            Line.logFormat(relating)
+            Line.logFormat(primary, transformingLines)
+            Line.logFormat(relating, transformingLines)
         else:
-            Line.logFormat(primary)
+            Line.logFormat(primary, transformingLines)
 
 
     # * Each hexagram is composed of 6 lines
