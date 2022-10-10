@@ -1,5 +1,13 @@
 # CliChing
 
+## Installation
+
+```bash
+git clone https://github.com/Fratch/CliChing
+cd CliChing
+```
+<br>
+
 ### `Requirements:`
 * Python 3
 
