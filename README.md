@@ -8,8 +8,6 @@ cd CliChing
 ```
 <br>
 
----
-
 ## Usage:
 ```bash
 python3 cliching.py
