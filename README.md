@@ -8,10 +8,17 @@ cd CliChing
 ```
 <br>
 
+---
+
+## Usage:
+```bash
+python3 cliching.py
+```
+<br>
+
 ### `Requirements:`
 * Python 3
 
 ---
 
-### `Instructions:`
-From the root directory: `python3 cliching.py`
+
