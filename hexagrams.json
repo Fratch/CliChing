@@ -47,15 +47,15 @@
       "zh" : "屯",
       "it" : "La Difficoltà iniziale"
     },
-    "judgment" : "<p>Difficulty at the Beginning works supreme success,<br />Furthering through perseverance.<br />Nothing should be undertaken.<br />It furthers one to appoint helpers.</p>",
-    "image" : "<p>Clouds and thunder:<br />The image of Difficulty at the Beginning.<br />Thus the superior man<br />Brings order out of confusion.</p>",
+    "judgment" : "La difficoltà iniziale opera sublime riuscita, propizia per perseveranza. Non bisogna imprendere nulla. Propizio è nominare degli aiutanti.",
+    "image" : "Nubi e tuono: l’immagine della difficoltà iniziale. Così il nobile opera districando e ordinando.",
     "transforming_lines" : [
-      "<p>Hesitation and hindrance.<br />It furthers one to remain persevering.<br />It furthers one to appoint helpers.</p>",
-      "<p>Difficulties pile up.<br />Horse and wagon part.<br />He is not a robber;<br />He wants to woo when the time comes.<br />The maiden is chaste,<br />She does not pledge herself.<br />Ten years - then she pledges herself.</p>",
-      "<p>Whoever hunts deer without the forester<br />Only loses his way in the forest.<br />The superior man understands the signs of the time<br />And prefers to desist.<br />To go on brings humiliation.</p>",
-      "<p>Horse and wagon part.<br />Strive for union.<br />To go brings good fortune.<br />Everything acts to further.</p>",
-      "<p>Difficulties in blessing.<br />A little perseverance brings good fortune.<br />Great perseverance brings misfortune.</p>",
-      "<p>Horse and wagon part.<br />Bloody tears flow.</p>"
+      "Titubanza e impedimento. Propizio è rimanere perseveranti. Propizio è nominare degli aiutanti.",
+      "Difficoltà si ammassano. Cavallo e carro si distaccano. Egli non è un brigante, a suo tempo si dichiarerà. La fanciulla è casta, non si promette. Dieci anni, poi si promette.",
+      "Chi caccia il cervo senza guardacaccia non fa che smarrirsi nel bosco. Il nobile comprende i segni del tempo e piuttosto rinuncia. Continuare ad agire reca umiliazione.",
+      "Cavallo e carro si distaccano. Ricerca l’unione. Andare reca salute. Tutto opera in favore.",
+      "Difficoltà nel far prosperare. Piccola perseveranza reca salute, grande perseveranza reca sciagura.",
+      "Cavallo e carro si distaccano. Lacrime di sangue sgorgano."
     ]
   },
   {
@@ -64,7 +64,7 @@
     "symbol" : "䷃",
     "name" : {
       "zh" : "蒙",
-      "it" : "Youthful Folly"
+      "it" : "La Stoltezza giovanile"
     },
     "judgment" : "<p>Youthful Folly has success.<br />It is not I who seek the young fool;<br />The young fool seeks me.<br />At the first oracle I inform him.<br />If he asks two or three times, it is importunity.<br />If he importunes, I give him no information.<br />Perseverance furthers.</p>",
     "image" : "<p>A spring wells up at the foot of the mountain:<br />The image of Youth.<br />Thus the superior man fosters his character<br />By thoroughness in all that he does.</p>",
@@ -292,17 +292,17 @@
     "symbol" : "䷏",
     "name" : {
       "zh" : "豫",
-      "it" : "Enthusiasm"
+      "it" : "Il Fervore"
     },
-    "judgment" : "<p>Enthusiasm. It furthers one to install helpers<br />And to set armies marching.</p>",
-    "image" : "<p>Thunder comes resounding out of the earth:<br />The image of Enthusiasm.<br />Thus the ancient kings made music<br />In order to honor merit,<br />And offered it with splendor<br />to the Supreme Deity,<br />Inviting their ancestors to be present.</p>",
+    "judgment" : "Il fervore. Propizio è nominare degli aiutanti e far marciare eserciti.",
+    "image" : "Il tuono erompe sonoro dalla terra: l’immagine del fervore. Così gli antichi re facevano musica per onorare i meriti, e la presentavano, magnifica offerta, al Dio supremo evocando la presenza dei loro avi.",
     "transforming_lines" : [
-      "<p>Enthusiasm that expresses itself<br />Brings misfortune.</p>",
-      "<p>Firm as a rock. Not a whole day.<br />Perseverance brings good fortune.</p>",
-      "<p>Enthusiasm that looks upward creates remorse.<br />Hesitation brings remorse.</p>",
-      "<p>The source of enthusiasm.<br />He achieves great things.<br />Doubt not.<br />You gather friends around you<br />As a hair clasp gathers the hair.</p>",
-      "<p>Persistently ill, and still does not die.</p>",
-      "<p>Deluded enthusiasm.<br />But if after completion one changes,<br />There is no blame.</p>"
+      "Fervore che si manifesta reca sciagura.",
+      "Saldo come una pietra. Nemmeno un giorno intero. Perseveranza reca salute.",
+      "Fervore che guarda in alto crea pentimento. Esitazione reca pentimento.",
+      "L’origine del fervore. Egli raggiunge grandi cose. Non dubitare. Gli amici si schierano attorno a te come attorno a una fibbia i capelli.",
+      "Costantemente malato e pur non muore mai.",
+      "Fervore cieco. Ma se dopo il compimento si giunge al cambiamento, questo non è una macchia."
     ]
   },
   {
@@ -425,17 +425,17 @@
     "symbol" : "䷖",
     "name" : {
       "zh" : "剝",
-      "it" : "Splitting Apart"
+      "it" : "La Frantumazione"
     },
-    "judgment" : "<p>Splitting Apart. It does not further one<br />To go anywhere.</p>",
-    "image" : "<p>The mountain rests on the earth:<br />The image of Splitting Apart.<br />Thus those above can ensure their position<br />Only by giving generously to those below.</p>",
+    "judgment" : "La frantumazione. Non è propizio andare in alcun luogo.",
+    "image" : "Il monte poggia sulla terra: l’immagine della frantumazione. Così i superiori possono assicurare la loro posizione solo con ricche elargizioni agli inferiori.",
     "transforming_lines" : [
-      "<p>The leg of the bed is split.<br />Those who persevere are destroyed.<br />Misfortune.</p>",
-      "<p>The bed is split at the edge.<br />Those who persevere are destroyed.<br />Misfortune.</p>",
-      "<p>He splits with them. No blame.</p>",
-      "<p>The bed is split up to the skin.<br />Misfortune.</p>",
-      "<p>A shoal of fishes. Favor comes through the court ladies.<br />Everything acts to further.</p>",
-      "<p>There is a large fruit still uneaten.<br />The superior man receives a carriage.<br />The house of the inferior man is split apart.</p>"
+      "Il letto va in frantumi alle gambe. I perseveranti vengono annientati. Sciagura.",
+      "Il letto va in frantumi al bordo. I perseveranti vengono annientati. Sciagura.",
+      "Egli rompe con loro. Nessuna macchia.",
+      "Il letto va in frantumi fino alla pelle. Sciagura.",
+      "Un branco di pesci. Grazie alle dame di palazzo viene favore. Tutto è propizio.",
+      "Ecco un grosso frutto non ancora mangiato. Il nobile riceve una carrozza. All’ignobile va in frantumi la casa."
     ]
   },
   {
