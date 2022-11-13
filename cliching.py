@@ -117,7 +117,7 @@ class Line(object):
     def generate_hexagram(self):
         hexagram = ""
         for x in range(6):
-            hexagram += str(self.generate_line(x))
+            hexagram += str(self.generate_line())
         Line.convert_hexagrams(hexagram)
 
 
