@@ -71,7 +71,7 @@ class Line(object):
     def log_format(type, transforming_line):
         result = Line.locate_hexagram(type)
         print("   ", result['name']['zh'], "   ")
-        print(color.BOLD,"Esagramma",result['number'],": ",result['name']['it'],color.END)
+        print(color.BOLD+"Esagramma",str(result['number'])+":",result['name']['it'],color.END)
         print("   ", result['symbol'], "   ")
         print(color.UNDERLINE + "La sentenza:" + color.END)
         print(result['judgment'])
@@ -117,7 +117,7 @@ class Line(object):
     def generate_hexagram(self):
         hexagram = ""
         for x in range(6):
-            hexagram += str(self.generate_line())
+            hexagram += str(self.generate_line(x))
         Line.convert_hexagrams(hexagram)
 
 

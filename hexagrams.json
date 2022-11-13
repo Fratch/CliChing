@@ -634,17 +634,17 @@
     "symbol" : "䷡",
     "name" : {
       "zh" : "大壯",
-      "it" : "The Power of the Great"
+      "it" : "La Potenza del grande"
     },
-    "judgment" : "<p>The Power of the Great. Perseverance furthers.</p>",
-    "image" : "<p>Thunder in heaven above:<br />The image of the Power of the Great.<br />Thus the superior man does not tread upon paths<br />That do not accord with established order.</p>",
+    "judgment" : "La potenza del grande. Propizia è perseveranza.",
+    "image" : "Il tuono sta in alto nel cielo: l’immagine della potenza del grande. Così il nobile non percorre sentieri che non corrispondono all’ordine.",
     "transforming_lines" : [
-      "<p>Power in the toes.<br />Continuing brings misfortune.<br />This is certainly true.</p>",
-      "<p>Perseverance brings good fortune.</p>",
-      "<p>The inferior man works through power.<br />The superior man does not act thus.<br />To continue is dangerous.<br />A goat butts against a hedge<br />And gets its horns entangled.</p>",
-      "<p>Perseverance brings good fortune.<br />Remorse disappears.<br />The hedge opens; there is no entanglement.<br />Power depends upon the axle of a big cart.</p>",
-      "<p>Loses the goat with ease.<br />No remorse.</p>",
-      "<p>A goat butts against a hedge.<br />It cannot go backward, it cannot go forward.<br />Nothing serves to further.<br />If one notes the difficulty, this brings good fortune.</p>"
+      "Potenza nelle dita dei piedi. Continuare così reca sciagura. Questo è certamente vero.",
+      "Perseveranza reca salute.",
+      "L’ignobile agisce mediante la potenza, il nobile non agisce così. Continuare è pericoloso. Un capro cozza contro una siepe e s’impiglia le corna.",
+      "Perseveranza reca salute.Il pentimento svanisce. La siepe si apre, non vi è nessun groviglio. La potenza poggia sull’asse di un grande carro.",
+      "Perde il capro e non se ne rammarica. Nessun pentimento.",
+      "Un capro cozza contro una siepe. Non può andare né indietro né avanti. Nulla è propizio. Se ci si accorge della difficoltà, questo reca salute."
     ]
   },
   {
