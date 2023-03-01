@@ -39,7 +39,7 @@ class Line:
     @classmethod
     def generate_line(cls):
         """Prompts the user to press Enter and then generates a line."""
-        input("Press Enter to toss the coins.")
+        input("Premi Invio per lanciare le monete.")
         return cls.cointoss() + cls.cointoss() + cls.cointoss()
     
     @staticmethod
@@ -110,6 +110,7 @@ class Line:
                 relating += hexagram[i]
         if len(transforming_lines) == 6:
             transforming_lines = [7]
+        os.system('cls' if os.name == 'nt' else 'clear')
         if changing:
             Line.log_format(primary, transforming_lines)
             Line.log_format(relating, transforming_lines)
