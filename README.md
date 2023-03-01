@@ -1,5 +1,5 @@
 # CliChing
-A Python command line I Ching divination implementation 
+A Python command line I Ching divination program with italian translation
 ## Installation
 
 ```bash
