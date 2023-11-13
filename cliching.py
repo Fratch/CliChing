@@ -10,6 +10,12 @@ class Color:
    UNDERLINE = '\033[4m'
    END = '\033[0m'
 
+class Color:
+    """Class for terminal color codes."""
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+    END = '\033[0m'
+
 class Line:
     """Class for generating and converting hexagram lines."""
 
@@ -25,16 +31,13 @@ class Line:
         print ("╰━━━┻━┻┻━━━┻╯╰┻┻╯╰┻━╮┃")
         print ("╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃")
         print ("╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯")
-        print('─' * 20)  # U+2500, Box Drawings Light Horizontal
+        print('─' * 20)
         cls.generate_hexagram()
 
     @classmethod
     def cointoss(cls):
         """Tosses a coin and returns a result."""
-        rand_i = random.randint(0, 1)
-        outcomes = [3, 2]
-        
-        return outcomes[rand_i]
+        return random.choice([3, 2])
 
     @classmethod
     def generate_line(cls):
@@ -42,29 +45,29 @@ class Line:
         input("Premi Invio per lanciare le monete.")
         return cls.cointoss() + cls.cointoss() + cls.cointoss()
     
-    @staticmethod
-    def locate_hexagram(hex_pattern):
-        """Returns a dictionary containing the hexagram information for the given hexagram pattern."""
-        int_hex = int(hex_pattern)
+    _hexagrams = None
 
-        # Opening JSON file
+    @staticmethod
+    def load_hexagrams():
+        """Loads the hexagrams in a class attribute."""
         try:
             with open('hexagrams.json') as f:
-                # returns JSON object as a dictionary
-                data = json.load(f)
+                Line._hexagrams = json.load(f)
         except IOError:
             print("Error opening 'hexagrams.json' file")
-            return {}
+            Line._hexagrams = {}
         except ValueError:
             print("Error parsing JSON data")
-            return {}
+            Line._hexagrams = {}
 
-        found = {}
-        for d in data['hexagrams']:
-            if d['pattern'] == int_hex:
-                found = d
-
+    @staticmethod
+    def locate_hexagram(hex_pattern):
+        if Line._hexagrams is None:
+            Line.load_hexagrams()
+        int_hex = int(hex_pattern)
+        found = next((d for d in Line._hexagrams['hexagrams'] if d['pattern'] == int_hex), {})
         return found
+
 
     @staticmethod
     def log_format(hex_type, transforming_lines):
@@ -108,8 +111,6 @@ class Line:
             else:
                 primary += hexagram[i]
                 relating += hexagram[i]
-        if len(transforming_lines) == 6:
-            transforming_lines = [7]
         os.system('cls' if os.name == 'nt' else 'clear')
         if changing:
             Line.log_format(primary, transforming_lines)

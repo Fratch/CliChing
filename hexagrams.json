@@ -235,17 +235,17 @@
     "symbol" : "䷌",
     "name" : {
       "zh" : "同人",
-      "it" : "Fellowship with Men"
+      "it" : "L’Associazione tra uomini"
     },
-    "judgment" : "<p>Fellowship with Men in the open.<br />Success.<br />It furthers one to cross the great water.<br />The perseverance of the superior man furthers.</p>",
-    "image" : "<p>Heaven together with fire:<br />The image of Fellowship with Men.<br />Thus the superior man organizes the clans<br />And makes distinctions between things.</p>",
+    "judgment" : "Associazione tra uomini all’aperto: riuscita. Propizio è attraversare la grande acqua. Propizia è la perseveranza del nobile.",
+    "image" : "Il cielo insieme al fuoco: l’immagine dell’associazione tra uomini. Così il nobile ripartisce le stirpi e distingue le cose.",
     "transforming_lines" : [
-      "<p>Fellowship with men at the gate.<br />No blame.</p>",
-      "<p>Fellowship with men in the clan.<br />Humiliation.</p>",
-      "<p>He hides weapons in the thicket;<br />He climbs the high hill in front of it.<br />For three years he does not rise up.</p>",
-      "<p>He climbs up on his wall; he cannot attack.<br />Good fortune.</p>",
-      "<p>Men bound in fellowship first weep and lament,<br />But afterward they laugh.<br />After great struggles they succeed in meeting.</p>",
-      "<p>Fellowship with men in the meadow.<br />No remorse.</p>"
+      "Associazione tra uomini sulla porta. Nessuna macchia.>",
+      "Associazione tra uomini nel clan: umiliazione.",
+      "Nasconde armi nella fratta, sale sull’alta collina antistante. Per tre anni non si solleva.",
+      "Sale sulle sue mura, non può attaccare. Salute!",
+      "I compagni prima piangono e gemono, ma poi ridono. Dopo grandi lotte riescono a incontrarsi.",
+      "Associazione tra uomini fuori le mura: nessun pentimento."
     ]
   },
   {
@@ -520,17 +520,17 @@
     "symbol" : "䷛",
     "name" : {
       "zh" : "大過",
-      "it" : "Preponderance of the Great"
+      "it" : "La Preponderanza del grande"
     },
-    "judgment" : "<p>Preponderance of the Great.<br />The ridgepole sags to the breaking point.<br />It furthers one to have somewhere to go.<br />Success.</p>",
-    "image" : "<p>The lake rises above the trees:<br />The image of Preponderance of the Great.<br />Thus the superior man, when he stands alone,<br />Is unconcerned,<br />And if he has to renounce the world,<br />He is undaunted.</p>",
+    "judgment" : "La preponderanza del grande. La trave maestra si piega. Propizio è avere ove recarsi. Riuscita.",
+    "image" : "“Il lago oltrepassa gli alberi: l’immagine della preponderanza del grande. Così il nobile quando sta solo è libero da crucci, e quando deve rinunciare al mondo è intrepido.",
     "transforming_lines" : [
-      "<p>To spread white rushes underneath.<br />No blame.</p>",
-      "<p>A dry poplar sprouts at the root.<br />An older man takes a young wife.<br />Everything furthers.</p>",
-      "<p>The ridgepole sags to the breaking point.<br />Misfortune.</p>",
-      "<p>The ridgepole is braced. Good fortune.<br />If there are ulterior motives, it is humiliating.</p>",
-      "<p>A withered poplar puts forth flowers.<br />An older woman takes a husband.<br />No blame. No praise.</p>",
-      "<p>One must go through the water.<br />It goes over one's head.<br />Misfortune. No blame.</p>"
+      "Poggiare su stuoia di canna bianca. Nessuna macchia.",
+      "Un pioppo secco getta un germoglio di radice. Un uomo anziano prende una moglie giovane. Tutto è propizio.",
+      "La trave maestra si piega. Sciagura.",
+      "La trave maestra viene sostenuta. Salute. Se vi sono secondi fini è vergognoso.",
+      "Un pioppo rinsecchito getta boccioli. Una donna anziana trova marito. Nessuna macchia. Nessuna lode.",
+      "Bisogna attraversare l’acqua. Essa oltrepassa la testa. Sciagura. Nessuna macchia."
     ]
   },
   {
@@ -577,17 +577,16 @@
     "symbol" : "䷞",
     "name" : {
       "zh" : "咸",
-      "it" : "Influence [Wooing]"
+      "it" : "La Stimolazione (la Domanda di matrimonio)"
     },
-    "judgment" : "<p>Influence. Success.<br />Perseverance furthers.<br />To take a maiden to wife brings good fortune.</p>",
-    "image" : "<p>A lake on the mountain:<br />The image of Influence.<br />Thus the superior man encourages people to approach him<br />By his readiness to receive them.</p>",
+    "judgment" : "La stimolazione. Riuscita. Propizia è perseveranza. Prendere in moglie una fanciulla reca salute.",
+    "image" : "Sopra il monte sta un lago: l’immagine della stimolazione. Così il nobile, essendo pronto ad accoglierli, fa sì che gli uomini gli si avvicinino.",
     "transforming_lines" : [
-      "<p>The influence shows itself in the big toe.</p>",
-      "<p>The influence shows itself in the calves of the legs.<br />Misfortune.<br />Tarrying brings good fortune.</p>",
-      "<p>The influence shows itself in the thighs.<br />Holds to that which follows it.<br />To continue is humiliating.</p>",
-      "<p>Perseverance brings good fortune.<br />Remorse disappears.<br />If a man is agitated in mind,<br />And his thoughts go hither and thither,<br />Only those friends<br />On whom he fixes his conscious thoughts<br />Will follow.</p>",
-      "<p>The influence shows itself in the back of the neck.<br />No remorse.</p>",
-      "<p>The influence shows itself in the jaws, cheeks, and tongue.</p>"
+      "La stimolazione si manifesta nell’alluce.",
+      "La stimolazione si manifesta nei polpacci. Sciagura! Indugiare reca salute.",
+      "La stimolazione si manifesta nelle cosce. Si attiene a ciò che segue. Continuare così è umiliante.",
+      "La stimolazione si manifesta nella nuca. Nessun pentimento.",
+      "La stimolazione si manifesta nelle mascelle, nelle guance e nella lingua."
     ]
   },
   {
@@ -617,15 +616,15 @@
       "zh" : "遯",
       "it" : "Retreat"
     },
-    "judgment" : "<p>Retreat. Success.<br />In what is small, perseverance furthers.</p>",
-    "image" : "<p>Mountain under heaven: the image of Retreat.<br />Thus the superior man keeps the inferior man at a distance,<br />Not angrily but with reserve.</p>",
+    "judgment" : "La ritirata. Riuscita. Nel piccolo è propizia perseveranza.",
+    "image" : "Sotto il cielo vi è il monte: l’immagine della ritirata. Così il nobile tiene lontano l’ignobile: non irato, ma pacato.",
     "transforming_lines" : [
-      "<p>At the tail in retreat. This is dangerous.<br />One must not wish to undertake anything.</p>",
-      "<p>He holds him fast with yellow oxhide.<br />No one can tear him loose.</p>",
-      "<p>A halted retreat<br />Is nerve-wracking and dangerous.<br />To retain people as men- and maidservants<br />Brings good fortune.</p>",
-      "<p>Voluntary retreat brings good fortune to the superior man<br />And downfall to the inferior man.</p>",
-      "<p>Friendly retreat. Perseverance brings good fortune.</p>",
-      "<p>Cheerful retreat. Everything serves to further.</p>"
+      "In coda durante la ritirata: ciò è pericoloso. Non bisogna voler imprendere qualche cosa.",
+      "Egli lo vincola con giallo cuoio di bue. Nessuno è in grado di strapparlo.",
+      "Ritirata interrotta è penosa e pericolosa. Mantenere la gente come servi e serve reca salute.",
+      "Ritirata volontaria reca salute al nobile, decadimento all’ignobile.",
+      "Ritirata amichevole. Perseveranza reca salute.",
+      "Ritirata serena. Tutto è propizio."
     ]
   },
   {
@@ -900,17 +899,17 @@
     "symbol" : "䷯",
     "name" : {
       "zh" : "井",
-      "it" : "The Well"
+      "it" : "Il Pozzo"
     },
-    "judgment" : "<p>The Well. The town may be changed,<br />But the well cannot be changed.<br />It neither decreases nor increases.<br />They come and go and draw from the well.<br />If one gets down almost to the water<br />And the rope does not go all the way,<br />Or the jug breaks, it brings misfortune.</p>",
-    "image" : "<p>Water over wood: the image of the Well.<br />Thus the superior man encourages the people at their work,<br />And exhorts them to help one another.</p>",
+    "judgment" : "Il pozzo. Si cambi pure di città, ma non si può cambiare il pozzo. Non cala e non cresce. Essi vanno e vengono e attingono al pozzo. Se si è quasi raggiunta l’acqua del pozzo ma non si è ancora sul fondo con la corda, oppure se si rompe la brocca, ciò reca sciagura.",
+    "image" : "Sopra il legno vi è acqua: l’immagine del pozzo. Così il nobile anima il popolo durante il lavoro e lo esorta all’aiuto reciproco.",
     "transforming_lines" : [
-      "<p>One does not drink the mud of the well.<br />No animals come to an old well.</p>",
-      "<p>At the wellhole one shoots fishes.<br />The jug is broken and leaks.</p>",
-      "<p>The well is cleaned, but no one drinks from it.<br />This is my heart's sorrow,<br />For one might draw from it.<br />If the king were clear-minded,<br />Good fortune might be enjoyed in common.</p>",
-      "<p>The well is being lined. No blame.</p>",
-      "<p>In the well there is a clear, cold spring<br />From which one can drink.</p>",
-      "<p>One draws from the well<br />Without hindrance.<br />It is dependable.<br />Supreme good fortune.</p>"
+      "Il fango del pozzo non viene bevuto. Gli animali non vanno a un pozzo vecchio.",
+      "Nella bocca del pozzo si catturano pesci. La brocca è spaccata e perde.",
+      "Il pozzo è ripulito, ma non se ne beve l’acqua. È questo che mi accora; poiché vi si potrebbe attingere. Se il re fosse chiaro, si godrebbe insieme della felicità.",
+      "L'interno del pozzo viene rivestito di pietra. Nessuna macchia.",
+      "Nel pozzo vi è una sorgente limpida e fresca alla quale si può bere.",
+      "Si attinge al pozzo senza impedimento. Esso è fidato. Sublime salute!"
     ]
   },
   {
@@ -938,10 +937,10 @@
     "symbol" : "䷱",
     "name" : {
       "zh" : "鼎",
-      "it" : "The Cauldron"
+      "it" : "Il Crogiolo"
     },
-    "judgment" : "<p>The Cauldron. Supreme good fortune.<br />Success.</p>",
-    "image" : "<p>Fire over wood:<br />The image of the Cauldron.<br />Thus the superior man consolidates his fate<br />By making his position correct.</p>",
+    "judgment" : "Il crogiolo. Sublime salute. Riuscita.",
+    "image" : "“Al di sopra del legno vi è il fuoco: l’immagine del crogiolo. Così il nobile assestando la sua posizione consolida il destino.",
     "transforming_lines" : [
       "<p>A cauldron with legs upturned.<br />Furthers removal of stagnating stuff.<br />One takes a concubine for the sake of her son.<br />No blame.</p>",
       "<p>There is food in the vessel.<br />My comrades are envious,.But they cannot harm me.<br />Good fortune.</p>",
